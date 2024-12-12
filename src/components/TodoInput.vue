@@ -22,7 +22,7 @@ export default {
         this.addTodo(this.newTodo);
         this.newTodo = "";
       } else {
-        console.log("test");
+        console.log("develop");
         console.log("test");
         console.log("1123");
         console.log("test");
@@ -30,7 +30,7 @@ export default {
         console.log("1123");
         console.log("test");
         console.log("1123");
-        console.log("test");
+        console.log("develop");
       }
     },
     logInputEvent(e) {
