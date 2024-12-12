@@ -22,15 +22,9 @@ export default {
         this.addTodo(this.newTodo);
         this.newTodo = "";
       } else {
-        console.log(123);
-        console.log(123);
-        console.log(123);
-        console.log(123);
         alert("할 일을 입력하세요!!!!");
-        console.log(123);
-        console.log(123);
-        console.log(123);
-        console.log(123);
+        console.log("1123");
+        console.log("1123");
       }
     },
     logInputEvent(e) {
