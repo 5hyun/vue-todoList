@@ -24,11 +24,13 @@ export default {
       } else {
         console.log("test");
         console.log("test");
+        console.log("1123");
         console.log("test");
         alert("할 일을 입력하세요!!!!");
         console.log("1123");
         console.log("test");
         console.log("1123");
+        console.log("test");
       }
     },
     logInputEvent(e) {
