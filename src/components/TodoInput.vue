@@ -22,10 +22,10 @@ export default {
         this.addTodo(this.newTodo);
         this.newTodo = "";
       } else {
-        console.log("cherry pick");
-        console.log("main");
-        console.log("으로");
-        console.log("예시");
+        console.log("cherry pick222");
+        console.log("main222");
+        console.log("으로222");
+        console.log("예시222");
         alert("할 일을 입력하세요!!!!");
         console.log("1123");
         console.log("tst");
